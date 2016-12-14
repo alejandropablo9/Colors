@@ -80,4 +80,4 @@ public class ProcesarImagen {
         bm.setPixels(pix, 0, w, 0, 0, w, h);
         return bm;
     }
-}
+    }
